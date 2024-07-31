@@ -698,12 +698,12 @@ span.banner-line1{
     font-weight: 500;
     line-height: 39.04px;
     text-align: left;
-    
-    color: #FFFFFF;
+    color: #F6F6F6;
 }
 .footer-main{
     display: flex;
     flex-direction: row;
+    margin-bottom: 50px;
     
     
 }
@@ -725,7 +725,87 @@ span.banner-line1{
     margin-top: 0%;
     
 }
+.Social-media-icons{
+    display: flex;
+    flex-direction: row;
+    gap: 7%;
+    margin-top: 40%;
+    
+}
+.footer-icons{
+    color: #2A2F2F;
+    width: 17px;
+    height: 17px;
+    background-color: #FFFFFF;
+    
+    opacity: 0px;
 
+}
+.footer-icons img{
+    width: 100%;
+    height: 100%;
+}
+.icon-border{
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 35px;
+}
+.download{
+    margin-top: 70px;
+}
+.download h3 a{
+    font-family:'core_sans_c45_regular';
+    font-size: 28.58px;
+    font-weight: 700;
+    line-height: 61.99px;
+    margin-top: 300px;
+    text-align: left;
+}
+.playstore-ads{
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+}
+.popular-categories{
+    margin-top: 50px;
+    border-top: 1px #ffffff solid;
+    border-bottom: 1px #ffffff solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 86%;
+    margin-left: 7%;
+}
+.popular-categories h2{
+    font-family:'core_sans_c45_regular';
+    font-size: 28.58px;
+    font-weight: 700;
+    line-height: 57.16px;
+    width: 100%;
+    text-align: left;
+    color:#F6F6F6 ;
+    margin-left: 3%;
+    margin-bottom: 2%;
+}
+.arrow-down{
+    margin-right: 40px;
+}
+.email{
+    color: #FFFFFF;
+    font-family: 'caustenextra_light';
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 150px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
 footer{
     background-color: #3C4242;
 }
