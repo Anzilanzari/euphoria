@@ -350,13 +350,13 @@ span.banner-line1{
     line-height: 37.77px;
     width: 211px;
     height: 75px;
-    font-style: 'core_sans_c45_regular';
+    font-family: 'core_sans_c45_regular';
 }
 .banner-line2 h1{
     width: 485px;
     height: 96px;
     color: #FFFFFF;
-    font-style: 'core_sans_c45_regular';
+    font-family: 'core_sans_c45_regular';
     font-size: 78px;
     font-weight: 800;
     line-height: 93.62px;
@@ -901,7 +901,7 @@ span.banner-line1{
     gap: 2%;
 }
 .star-name{
-    font-style:'core_sans_c45_regular' ;
+    font-family:'core_sans_c45_regular' ;
     margin-left: 4%;
     position: relative;
     bottom: 8%;
@@ -914,10 +914,10 @@ span.banner-line1{
    
 }
 .review p{
-    font-style: "Poppins" ;
+    font-family: "Poppins" ;
 }
 .footer-info a{
-    font-style: "Poppins";
+    font-family: "Poppins";
     font-size: 17px;
     font-weight: 500;
     line-height: 39.04px;
