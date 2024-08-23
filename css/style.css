@@ -350,13 +350,13 @@ span.banner-line1{
     line-height: 37.77px;
     width: 211px;
     height: 75px;
-    font-family: 'core_sans_c45_regular';
+    font-family: "Poppins";
 }
 .banner-line2 h1{
     width: 485px;
     height: 96px;
     color: #FFFFFF;
-    font-family: 'core_sans_c45_regular';
+    font-family: "Poppins";
     font-size: 78px;
     font-weight: 800;
     line-height: 93.62px;
@@ -374,7 +374,7 @@ span.banner-line1{
 }
 .banner-line3 h4{
     margin-top: 50px;
-    font-family: 'core_sans_c55_medium';
+    font-family: "Poppins";
     font-size: 32px;
     font-weight: 500;
 }
@@ -387,7 +387,7 @@ span.banner-line1{
     border: none;
     border-radius: 9px;
     opacity: 0px;
-    font-family:'core_sans_c45_regular';
+    font-family: "Poppins";
     font-size: 19px;
     font-weight: 700;
     cursor: pointer;
@@ -883,7 +883,7 @@ span.banner-line1{
 .review{
     margin: 20px;
     color: #807D7E;
-    font-family: "Poppins"
+    font-family: "Poppins";
     
 
 }
@@ -919,7 +919,7 @@ span.banner-line1{
 .footer-info a{
     font-family: "Poppins";
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 300;
     line-height: 39.04px;
     text-align: left;
     color: #F6F6F6;
@@ -932,9 +932,9 @@ span.banner-line1{
     
 }
 .footer-info h3 a{
-    font-family:'core_sans_c45_regular';
-    font-size: 20.58px;
-    font-weight: 700;
+    font-family: "Poppins";
+    font-size: 24.58px;
+    font-weight: 500;
     line-height: 61.99px;
     text-align: left;
 
