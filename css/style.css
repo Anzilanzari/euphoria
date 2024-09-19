@@ -1634,4 +1634,11 @@ footer{
         width: 96%;
     }
     
+    .feed-pic1 {
+        width: 311px;
+    }
+    .feed-pic1 .card {
+        gap: 36%;
+    }
+    
 }
