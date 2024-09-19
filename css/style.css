@@ -252,10 +252,10 @@ body {
     display: flex;
     width: min-content;
     position: relative;
-    left: 54%;
+    left: 13%;
     justify-content: center;
     align-items: center;
-    gap: 12%;
+    gap: 14%;
 }
 
 .nav-link li {
