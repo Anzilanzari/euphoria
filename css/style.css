@@ -1623,4 +1623,15 @@ footer{
         font-size: 18px;
         margin-top: 0px;
     }
+    .better-pic h2 {
+        font-size: 19px;
+        width: 86%;
+        margin-top: 20px;
+    }
+    .better-pic h4 {
+        margin-top: -10px;
+        margin-bottom: 19px;
+        width: 96%;
+    }
+    
 }
