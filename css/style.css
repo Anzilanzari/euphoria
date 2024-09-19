@@ -1126,6 +1126,9 @@ footer{
     .footer-info-main {
         gap: 5%;
     }
+    #icon1 {
+        left: 6%;
+    }
 }
 @media (max-width: 1080px) {
 
