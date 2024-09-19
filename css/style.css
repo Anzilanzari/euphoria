@@ -1550,11 +1550,13 @@ footer{
     .link {
         font-size: 12px;
     }  
+   
     .better-pic h2 {
         font-size: 19px;
         width: 84%;
-        margin-top: 0;
+        margin-top: 20px;
     }
+
     .new-arrival1 h3 {
         font-size: 23px;
         width: 273px;
