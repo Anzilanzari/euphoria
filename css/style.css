@@ -1513,6 +1513,10 @@ footer{
 
 @media(max-width:360px){
     
+    
+    .feed-pic1 {
+        width: 347px;
+    }
     .banner-line3 button {
         padding: 8px 24px 9px 19px;
     }
