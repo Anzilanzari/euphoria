@@ -1044,12 +1044,13 @@ span.banner-line1{
 footer{
     background-color: #3C4242;
 }
+
 @media(max-width:1280px){
     .nav-link a {
         font-size: 18px;
     }
     .nav-link ul {
-        left: 51%;
+        left: 42%;
         gap: 12%;
     }
     
@@ -1105,6 +1106,15 @@ footer{
     }
     .pic-heart {
         width: 284px;
+    }
+}
+@media (max-width: 1100px) {
+    .nav-link ul {
+        left: 38%;
+        gap: 8%;
+    }
+    .footer-info-main {
+        gap: 5%;
     }
 }
 @media (max-width: 1080px) {
@@ -1280,8 +1290,16 @@ footer{
         height: 100%;
         gap: 13px;
     }
+    .brand1 h2 {
+        font-size: 46px;
+    }
 }
 @media(max-width:640px){
+    .brand-img img {
+        margin-left: 41%;
+        width: 83px;
+        height: 62px;
+    }
     .banner-line2 h1 {
         font-size: 50px;
         font-weight: 800;
@@ -1310,7 +1328,7 @@ footer{
     }
     .brand-img img {
         margin-left: 41%;
-        width: 70px;
+        width: 85px;
     }
     .brand-img {
         height: 100%;
@@ -1371,10 +1389,39 @@ footer{
     }
 }
 @media(max-width:480px){
+    .better-pic .adjust {
+        position: relative;
+        bottom: 26%;
+        width: 100%;
+    }
+    .new-arrival1 h3 {
+        width: 312px;
+    }
+    .email h5 {
+        font-size: 12px;
+    }
+    
+    .better-pic h2 {
+        font-size: 20px;
+        width: 84%;
+        line-height: 34px;
+    }
+    .brand1 h2 {
+        font-size: 38px;
+    }
+    .brand1 h3 {
+        margin-top: 4%;
+    }
+    .brand1 {
+        background-color: #3C4242;
+        width: 86%;
+        height: 243px;
+    }
+    
     .banner-line3 button {
-    padding: 8px 24px 11px 19px;
-    font-size: 12px;
-    margin-top: 0;
+        padding: 8px 24px 11px 19px;
+        font-size: 12px;
+        margin-top: 0;
     }
     .banner-line3 h4 {
         margin-top: 10px;
@@ -1445,6 +1492,21 @@ footer{
 }
 
 @media(max-width:360px){
+    
+    .banner-line3 button {
+        padding: 8px 24px 9px 19px;
+    }
+    .better-pic h4 {
+        margin-top: -10px;
+        margin-bottom: 19px;
+    }
+    .brand1 h2 {
+        font-size: 34px;
+    }
+    .brand1 h3 {
+        margin-top: 4%;
+        font-size: 21px;
+    }
     .banner-line3 h4 {
         margin-top: 10px;
         font-size: 20px;
@@ -1522,6 +1584,13 @@ footer{
 }
 
 @media(max-width:320px){
+    .brand1 h2 {
+        font-size: 30px;
+    }
+    .brand1 h3 {
+        margin-top: 4%;
+        font-size: 17px;
+    }
    
     .banner-line3 button {
         padding: 2px 19px 3px 19px;
